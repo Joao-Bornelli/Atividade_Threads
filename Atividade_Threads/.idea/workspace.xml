@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc587182-a5e1-423a-997d-7fb4e8c04d0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+    <list default="true" id="fc587182-a5e1-423a-997d-7fb4e8c04d0a" name="Default Changelist" comment="teste">
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +18,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="Joao-Bornelli" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="Atividade_Threads" />
   </component>
   <component name="ProjectId" id="1oXNTR24Mwi9PxNeDhYDUUqmkhe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -42,6 +43,21 @@
       <option name="presentableId" value="Default" />
       <updated>1613428985107</updated>
     </task>
+    <task id="LOCAL-00001" summary="teste">
+      <created>1613429248452</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613429248452</updated>
+    </task>
+    <task id="LOCAL-00002" summary="teste">
+      <created>1613429259462</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613429259462</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -54,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste" />
   </component>
 </project>
