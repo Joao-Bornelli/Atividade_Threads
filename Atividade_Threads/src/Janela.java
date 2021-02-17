@@ -11,7 +11,6 @@ public class Janela extends JFrame {
         setSize(500,150);
         setLocationRelativeTo(null);
         txt.setHorizontalAlignment(SwingConstants.CENTER);
-
         add(txt);
     }
 }
