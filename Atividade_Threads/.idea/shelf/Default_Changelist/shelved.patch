@@ -1,0 +1,17 @@
+Index: src/main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class main {\r\n    public static void main(String[] args){\r\n        System.out.println(\"OI\");\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main.java b/src/main.java
+--- a/src/main.java	(revision 5822076e8831518eec236d023ea884851ee68580)
++++ b/src/main.java	(date 1613429440851)
+@@ -1,5 +1,6 @@
+ public class main {
+     public static void main(String[] args){
+         System.out.println("OI");
++        
+     }
+ }
